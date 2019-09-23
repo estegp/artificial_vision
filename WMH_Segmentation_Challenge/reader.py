@@ -9,11 +9,11 @@ def show_slices(slices):
     fig, axes = plt.subplots(1, len(slices))
     for i, slice in enumerate(slices):
         axes[i].imshow(slice.T, cmap="gray", origin="lower")
-    plt.suptitle("Center slices for EPI image")  # doctest: +SKIP
+    plt.suptitle("Center slices for EPI image") 
 
 def show_one(slice):
     plt.imshow(slice, cmap="gray", origin="lower")
-    plt.suptitle("Center slices for EPI image")  # doctest: +SKIP
+    plt.suptitle("Center slices for EPI image")  
 
 def read_img(filepath):
     img = nib.load(filepath)
