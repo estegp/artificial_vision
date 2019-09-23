@@ -10,7 +10,7 @@ Work done:
 
 Work in progress:
 
-- Basic CNN neural network used to segmentate the lessions from the brain. 
+- Basic CNN neural network used to segmentate the lesions from the brain. 
 
 Work to be done:
 
