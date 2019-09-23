@@ -6,7 +6,7 @@ https://wmh.isi.uu.nl/details/
 
 Work done:
 
-- Reader that reads the nifti files that contain the MR images
+- Reader that reads the nifti files with the MR images
 
 Work in progress:
 
@@ -17,4 +17,4 @@ Work to be done:
 - Implementation of a neural network with UNET architecture
 - Implementation of a neural network with Deepmedic architecture
 - Perfomance study
-- Improve the implementation/desing of the previous neural networks
+- Improvement of the implementation/desing of the previous neural networks
