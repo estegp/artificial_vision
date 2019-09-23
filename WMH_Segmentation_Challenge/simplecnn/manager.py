@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import reader as r
 import tensorflow as tf 
 #from tensorflow.keras.models import Sequential
